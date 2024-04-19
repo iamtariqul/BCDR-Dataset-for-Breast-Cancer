@@ -1,0 +1,27 @@
+patient_id,study_id,series,image_filename,image_type_name,image_type_id,age,density
+3, 4, 1, patient_3/study_4/img_3_4_1_LO.tif, LO, 3, 74, 1 
+3, 4, 1, patient_3/study_4/img_3_4_1_RO.tif, RO, 2, 74, 1 
+3, 4, 1, patient_3/study_4/img_3_4_1_RCC.tif, RCC, 0, 74, 1 
+3, 4, 1, patient_3/study_4/img_3_4_1_LCC.tif, LCC, 1, 74, 1 
+4, 8, 1, patient_4/study_8/img_4_8_1_LCC.tif, LCC, 1, 59, 3 
+4, 8, 1, patient_4/study_8/img_4_8_1_LO.tif, LO, 3, 59, 3 
+5, 9, 1, patient_5/study_9/img_5_9_1_RCC.tif, RCC, 0, 63, 1 
+5, 10, 1, patient_5/study_10/img_5_10_1_LCC.tif, LCC, 1, 64, 1 
+5, 10, 1, patient_5/study_10/img_5_10_1_LO.tif, LO, 3, 64, 1 
+5, 9, 1, patient_5/study_9/img_5_9_1_LCC.tif, LCC, 1, 63, 1 
+5, 10, 1, patient_5/study_10/img_5_10_1_RO.tif, RO, 2, 64, 1 
+5, 9, 1, patient_5/study_9/img_5_9_1_LO.tif, LO, 3, 63, 1 
+5, 9, 1, patient_5/study_9/img_5_9_1_RO.tif, RO, 2, 63, 1 
+5, 10, 1, patient_5/study_10/img_5_10_1_RCC.tif, RCC, 0, 64, 1 
+8, 16, 1, patient_8/study_16/img_8_16_1_LO.tif, LO, 3, 59, 2 
+8, 16, 1, patient_8/study_16/img_8_16_1_RO.tif, RO, 2, 59, 2 
+8, 844, 1, patient_8/study_844/img_8_844_1_LCC.tif, LCC, 1, 60, 2 
+8, 15, 1, patient_8/study_15/img_8_15_1_RCC.tif, RCC, 0, 58, 2 
+8, 16, 1, patient_8/study_16/img_8_16_1_RCC.tif, RCC, 0, 59, 2 
+8, 15, 1, patient_8/study_15/img_8_15_1_LCC.tif, LCC, 1, 58, 2 
+8, 844, 1, patient_8/study_844/img_8_844_1_RCC.tif, RCC, 0, 60, 2 
+8, 844, 1, patient_8/study_844/img_8_844_1_LO.tif, LO, 3, 60, 2 
+8, 15, 1, patient_8/study_15/img_8_15_1_LO.tif, LO, 3, 58, 2 
+8, 16, 1, patient_8/study_16/img_8_16_1_LCC.tif, LCC, 1, 59, 2 
+8, 844, 1, patient_8/study_844/img_8_844_1_RO.tif, RO, 2, 60, 2 
+8, 15, 1, patient_8/study_15/img_8_15_1_RO.tif, RO, 2, 58, 2
