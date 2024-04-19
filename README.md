@@ -10,7 +10,7 @@
 3. Use [prepareDB](code/prepareDB.py) to enhance the contrast of the mammograms and downsample them to have a manageable size (2cmx2cm in the mammogram in 128x128).
 
    Output looks like this:  
-   <img src="docs/report/plots/mammogram_resized.png" width="250" align='center'>
+   <img src="database_info/createMask/mammogram_resized.png" width="250" align='center'>
 
 4. Finally you would need to divide the dataset into training, validation and test patients. You would need to produce a .csv with image and label filenames as [this](code/example.csv) for each set.
 
