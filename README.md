@@ -1,6 +1,6 @@
 ## Data set
 
-1. You can obtain the BCDR database ([Download](https://docs.google.com/spreadsheets/d/1vJpOk3DaFlOoRoCtj8AjBSdFyPMJnCMifvjDQEs2Rc8/edit?usp=sharing)). I used the BCDR-DO1 data set, this one has around 70 patients(~300 digital mammograms) with breast masses and their lesion outlines.
+1. I used the BCDR-DO1 data set, this one has around 70 patients(~300 digital mammograms) with breast masses and their lesion outlines.
 
 2. To obtain the masks (from the outlines provided in the database) you can use [createMasks.m](database_info/createMask/createMask.m). This reads the mammogram info from a couple of files provided in the database: [sample bcdr_d01_img.csv](database_info/createMask/bcdr_d01_img.csv) and [sample bcdr_d01_outlines.csv](database_info/createMask/bcdr_d01_outlines.csv)
 
